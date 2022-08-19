@@ -1,0 +1,12 @@
+#Discord Command By Cyanade (Cyanade#7430) [1.7 - 1.19.2]
+#/discordreload to reload config file! [Perm: discord.reload]
+
+discord:
+  permission: '&cNo Permission'
+  message: '&b&lDiscord &7// &bdiscord.yourserver.de'
+  link: 'https://discord.yourserver.de'
+  hover:
+    enabled: true
+    message:
+      - '&9Click to join the discord server!'
+      - '&bdiscord.yourserver.de'
